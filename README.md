@@ -1,1 +1,1 @@
-# lesson-4-delete-JS-2
+# lesson-4-todo-list-JS-2
